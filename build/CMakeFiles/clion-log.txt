@@ -1,0 +1,6 @@
+/snap/clion/204/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/204/bin/ninja/linux/ninja -G Ninja -S /home/tim/Development/C++/SFML_CollisionDetection -B /home/tim/Development/C++/SFML_CollisionDetection/build
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tim/Development/C++/SFML_CollisionDetection/build

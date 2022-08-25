@@ -1,0 +1,3 @@
+/home/tim/Development/C++/SFML_CollisionDetection/build/CMakeFiles/SFML_CollisionDetection.dir
+/home/tim/Development/C++/SFML_CollisionDetection/build/CMakeFiles/edit_cache.dir
+/home/tim/Development/C++/SFML_CollisionDetection/build/CMakeFiles/rebuild_cache.dir
